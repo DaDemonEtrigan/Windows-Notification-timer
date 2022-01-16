@@ -1,5 +1,5 @@
 # notification for windows idk whats the use
-#dev : CodeHunter42
+# dev : Captain_Etrigan
 from plyer import notification
 import time
 
